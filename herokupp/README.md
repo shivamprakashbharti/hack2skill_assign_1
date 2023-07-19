@@ -1,4 +1,4 @@
-#HACK2SKILL assisgnment 1 (Automation part)
+# HACK2SKILL assisgnment 1 (Automation part)
 
 Project Description :- The Internet Herokuapp is a testing learning platform. It is used by beginners to learn testing on different modules. It helps in learning all the possible testing activities.
 					   According to assignment I have to perform automation to find "broken image link" and "not broken image link" and "to upload file".
@@ -16,7 +16,7 @@ Automation Report :- https://drive.google.com/file/d/1jbjpG_v6paXcPT2wFHo6PVXhGK
 
 
 
-#HACK2SKILL assignment 2 (Manual testing)
+# HACK2SKILL assignment 2 (Manual testing)
 
 Project Description :- Hack2skill is the largest and fastest-growing community of technology innovators, including startups, working professionals, freelancers, and student innovators.
 					   I performed manual testing on 3 Test scenarios (Registration, Login, Dashboard). During testing found some bugs and defect and created separate reports regarding it.
